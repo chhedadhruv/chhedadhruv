@@ -1,54 +1,83 @@
-# 👋 Hi, I'm Dhruv Chheda
+# 👋 Hi there, I'm Dhruv Chheda
 
-**Web & App Developer | JavaScript | React | React Native**
+**Frontend Developer | React & React Native Specialist | JavaScript Enthusiast**
 
-Welcome to my GitHub profile! I'm Dhruv Chheda, a passionate developer specializing in web and mobile app development using JavaScript, React, and React Native. I focus on creating high-performance, responsive applications.
+Welcome to my GitHub! I'm a passionate software engineer focused on building fast, scalable, and responsive web and mobile applications using modern technologies like **React**, **React Native**, and **Firebase**.
+
+---
 
 ## 🚀 About Me
 
-- 🌐 **Portfolio Website:** [dhruvchheda.com](https://www.dhruvchheda.com/)
-- 💼 **LinkedIn:** [Dhruv Chheda](https://www.linkedin.com/in/dhruv-chheda/)
-- 📧 **Email:** [me@dhruvchheda.com](mailto:me@dhruvchheda.com)
+- 🌍 **Location:** Thane, Maharashtra, India
+- 🧑‍💻 **Currently Working On:** Full-stack app development and polishing my Python & DSA skills.
+- 💼 **Portfolio:** [dhruvchheda.com](https://www.dhruvchheda.com/)
+- 💌 **Email:** [me@dhruvchheda.com](mailto:me@dhruvchheda.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/dhruv-chheda](https://www.linkedin.com/in/dhruv-chheda/)
 
-## 🛠️ Technologies & Tools
+---
 
-- **Front-End Development:** HTML, CSS, JavaScript, React
-- **Mobile App Development:** React Native
-- **UI/UX Design Tools:** Canva, Figma, Photoshop, Illustrator
-- **Back-End Services:** Firebase
-- **Version Control:** Git, GitHub
+## 💡 Tech Stack
 
-## 🏆 Top Projects
+- **Languages:** JavaScript (ES6+), Python, C#, HTML5, CSS3
+- **Frontend:** React, React Native, Redux
+- **Backend / APIs:** Firebase, RESTful APIs, ASP.NET
+- **Databases:** Firestore, MSSQL, MySQL
+- **Tools & Platforms:** Git, GitHub, Vite, Expo, NPM/Yarn
+- **Design & Prototyping:** Figma, Canva, Photoshop, Illustrator
 
-### [RoboFriends](https://github.com/chhedadhruv/Robofriends)
-RoboFriends is a React web application that allows users to search for robots and generate unique robot cards. It fetches data from Google Sheets and uses Robohash to create personalized robot images.
-- **Technologies:** React, React Bootstrap, Robohash
+---
 
-### [Expense Tracking App](https://github.com/chhedadhruv/TrackaExpense)
-TrackaExpense is a React Native and Firebase-based expense tracking application. It offers graphical insights, expense tracking, and a split function to manage shared costs efficiently.
-- **Technologies:** React Native, Firebase
+## 🏆 Featured Projects
 
-### [Resume Maker](https://github.com/chhedadhruv/Resume-Maker)
-SkillFlex is a resume builder that allows users to create professional resumes with customizable sections and stylish templates. Built with React, Firebase, and React Bootstrap, it offers secure and user-friendly resume creation.
-- **Technologies:** React, Firebase, React Bootstrap
+### 🔹 [TrackaExpense](https://github.com/chhedadhruv/TrackaExpense)
+A cross-platform expense tracker built with React Native & Firebase. Features include bill splitting, animated charts, and real-time database syncing.
+> **Stack:** React Native, Firebase, Charts, AsyncStorage
 
-## 💼 Internships
+### 🔹 [RoboFriends](https://github.com/chhedadhruv/Robofriends)
+A responsive React web app where users can search through a robot directory. Robots are dynamically generated using Robohash and data is fetched from Google Sheets.
+> **Stack:** React, OpenSheet API, Robohash, React Bootstrap
 
-### Full Stack React Native Developer Engineer
-**Rapturous Technology Private Limited**
-- **Duration:** February 15, 2024 - May 15, 2024
+### 🔹 [SkillFlexCV – Resume Maker](https://github.com/chhedadhruv/Resume-Maker)
+A modern resume builder web app with live preview, section customization, and PDF export. Secure login and data storage handled via Firebase.
+> **Stack:** React, Firebase Auth, Firestore, React Bootstrap
 
-### Winter Internship Program
-**Software Development Cell & REDX-AI Club**
-- **Duration:** December 2023 - January 2024
+---
 
-### Geofencing Internship
-**CASCADE, K.J Somaiya Institute of Technology**
-- **Duration:** April 10-14, 2023 & May 30 - June 3, 2023
+## 👨‍💻 Internship Experience
 
-## 📫 Connect with Me
+### 📱 React Native Developer – *Rapturous Technology Pvt. Ltd.*
+**Feb 2024 – May 2024**
+- Built cross-platform apps using React Native and Redux.
+- Collaborated with designers and back-end developers to implement scalable features.
+- Integrated REST APIs and optimized UI performance.
 
-- 💼 **LinkedIn:** [Dhruv Chheda](https://www.linkedin.com/in/dhruv-chheda/)
-- 📧 **Email:** [me@dhruvchheda.com](mailto:me@dhruvchheda.com)
+### 📱 App Developer Intern – *REDX-AI Club (KJSIT)*
+**Jul 2023 – Aug 2023**
+- Built a multilingual women safety app using React Native.
+- Implemented Firebase Auth (email, phone) and real-time DB with Firestore.
 
-Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
+### 🌐 Web Developer – *Software Development Cell, KJSIT*
+**Mar 2022 – May 2022**
+- Developed a full-stack exam management system using ASP.NET and MSSQL Server.
+
+---
+
+## 📚 Education
+
+**B.Tech in Computer Engineering**  
+*K.J. Somaiya Institute of Technology, Mumbai*  
+📅 2021 – 2025
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to opportunities, collaborations, and feedback. Feel free to reach out:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhruv-chheda/)
+- 📬 [me@dhruvchheda.com](mailto:me@dhruvchheda.com)
+- 🌐 [dhruvchheda.com](https://www.dhruvchheda.com)
+
+---
+
+_Thanks for stopping by! Let's build something amazing together 🚀_
