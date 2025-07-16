@@ -2,15 +2,15 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React;Mobile+App+Developer+%7C+React+Native;Full-Stack+Engineer+%7C+JavaScript+Enthusiast;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+React;Mobile+App+Developer+%7C+React+Native;Backend+Developer+%7C+Node.js;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
   
-🚀 **Passionate Software Engineer** building cross-platform mobile and web applications  
+🚀 **Passionate Full-Stack Engineer** building scalable web and mobile applications  
 🌍 **Based in** Thane, Maharashtra, India  
-💡 **Currently** developing scalable React Native and React applications
+💡 **Currently** developing modern React Native and Node.js applications
 
 </div>
 
@@ -21,11 +21,12 @@
 ```javascript
 const dhruv = {
   location: "Thane, Maharashtra, India",
-  currentFocus: ["Cross-platform Mobile Development", "Web Applications", "Full-stack Development"],
-  languages: ["JavaScript (ES6+)", "Python", "C#", "HTML5", "CSS3"],
-  architecture: ["React Native Apps", "RESTful APIs", "Firebase Integration"],
-  databases: ["Firestore", "MSSQL Server", "MySQL"],
-  currentlyWorking: "Building scalable mobile and web applications",
+  currentFocus: ["Full-Stack Development", "Mobile App Development", "API Development"],
+  languages: ["JavaScript (ES6+)", "TypeScript", "Python", "C#", "HTML5", "CSS3"],
+  frontend: ["React", "React Native", "Redux", "Vite"],
+  backend: ["Node.js", "Express.js", "PostgreSQL", "Firebase"],
+  architecture: ["RESTful APIs", "Microservices", "Docker", "Cloudflare"],
+  currentlyWorking: "Building scalable full-stack applications",
   funFact: "I love creating seamless user experiences across platforms!"
 };
 ```
@@ -39,20 +40,22 @@ const dhruv = {
 ### **Frontend Mastery**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-### **Tools & Platforms**
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -67,39 +70,42 @@ const dhruv = {
 
 <div align="center">
   
-### 💰 **TrackaExpense** | *Cross-Platform Expense Tracker*
+### 📋 **MyTodo** | *Complete Task Management Ecosystem*
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chhedadhruv/myTodo)
+
+*React • React Native • Node.js • PostgreSQL • Docker • TypeScript*
+
+🔹 **Full-stack ecosystem** with web, mobile, and API components  
+🔹 **JWT Authentication** with email verification and password reset  
+🔹 **Real-time sync** across all devices with offline support  
+🔹 **Docker deployment** with Nginx reverse proxy and SSL termination  
+🔹 **TypeScript** for type safety and better development experience
+
+---
+
+### 📚 **Quote API** | *Modern REST API for Inspirational Quotes*
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chhedadhruv/quote-api)
+
+*Node.js • Express.js • Docker • Cloudflare Tunnel*
+
+🔹 **RESTful API** with advanced search and filtering capabilities  
+🔹 **Rate limiting** and security headers for production readiness  
+🔹 **Docker deployment** with Cloudflare tunnel for public access  
+🔹 **Comprehensive documentation** with health monitoring  
+🔹 **Environment-based configuration** for flexible deployment
+
+---
+
+### 💰 **TrackaExpense** | *Personal Finance Management App*
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chhedadhruv/TrackaExpense)
 
-*React Native • React Native Charts • Android*
+*React Native • Firebase • React Navigation • Chart Kit*
 
-🔹 **Cross-platform Android app** for tracking daily income and expenses  
-🔹 **Animated visualizations** using react-native-charts  
-🔹 **Bill-splitting functionality** with efficient state management  
-🔹 **Performance optimization** with best practices for scalability
-
----
-
-### 🤖 **RoboFriends** | *Dynamic Robot Directory*
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chhedadhruv/Robofriends)
-
-*React • OpenSheet API • Robohash API • Google Sheets*
-
-🔹 **Dynamic robot avatars** generated using Robohash API  
-🔹 **Google Sheets integration** via OpenSheet API for data fetching  
-🔹 **Search functionality** with fuzzy matching  
-🔹 **Responsive design** for optimal user experience
-
----
-
-### 📄 **SkillFlexCV** | *Resume Builder Website*
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chhedadhruv/Resume-Maker)
-
-*React • Firebase Auth • Firestore • Dynamic Forms*
-
-🔹 **Responsive resume builder** with dynamic form inputs  
-🔹 **Live preview** functionality for real-time editing  
-🔹 **Firebase Authentication** for secure user login  
-🔹 **Firestore database** for storing user-generated resume data
+🔹 **Cross-platform mobile app** for expense and income tracking  
+🔹 **Interactive charts** for financial analysis and insights  
+🔹 **Bill splitting functionality** with percentage-based calculations  
+🔹 **Savings goals tracking** with progress visualization  
+🔹 **Firebase integration** for real-time data synchronization
 
 </div>
 
