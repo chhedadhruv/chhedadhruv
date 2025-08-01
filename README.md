@@ -159,6 +159,16 @@ const dhruv = {
 
 ---
 
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chhedadhruv&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 🎓 **Education**
 
 <div align="center">
