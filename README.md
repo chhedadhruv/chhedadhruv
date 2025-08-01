@@ -68,7 +68,7 @@ const dhruv = {
 
 ## 🏆 **Featured Projects**
 
-<div align="left">
+<div align="center">
   
 ### 📋 **MyTodo** | *Complete Task Management Ecosystem*
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chhedadhruv/myTodo)
@@ -165,18 +165,6 @@ const dhruv = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chhedadhruv&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🎓 **Education**
-
-<div align="center">
-  
-**🎓 Bachelor of Technology in Computer Engineering**  
-*K.J. Somaiya Institute of Technology, Mumbai*  
-📅 **2021 - 2025**
-
 </div>
 
 ---
