@@ -68,7 +68,7 @@ const dhruv = {
 
 ## 🏆 **Featured Projects**
 
-<div align="center">
+<div align="left">
   
 ### 📋 **MyTodo** | *Complete Task Management Ecosystem*
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chhedadhruv/myTodo)
