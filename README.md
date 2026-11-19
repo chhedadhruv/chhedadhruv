@@ -47,12 +47,10 @@ Tech: TypeScript, Node.js. Site: [create-projex.com](https://www.create-projex.c
 
 **FOXO**, Software Development Engineer I (Mobile), Nov 2025 to present
 
-- Own large parts of a production React Native (Expo) app; made flows config-driven from a backend table so content ships without an app release
-- Migrated API calls from RTK Query to TanStack Query; moved to expo-video with preloading, removing a 2-3 s initial buffer
+- Made flows config-driven from a backend table so content ships without an app release
+- Migrated API calls from RTK Query to TanStack Query
 - Automated releases with EAS Build/Submit to TestFlight and Play internal track, plus background EAS Update (OTA) handling
 - Reworked Mixpanel and Sentry; added EAS Insights/Observe for launch time and time-to-interactive
-- Built in-app messaging, actionable notifications, a native Samsung SDK health integration (Android) and an Excel viewer
-- Prototyped on-device AI chat with local LLMs (Gemma, Qwen), model chosen by device RAM and storage
 
 **REDX-AI Club, KJSIT**, Mobile App Developer Intern (Surakshak), Jul 2023 to Aug 2023
 
