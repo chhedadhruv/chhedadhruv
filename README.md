@@ -1,193 +1,79 @@
-# Dhruv Chheda
+# Hi, I'm Dhruv Chheda
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+React;Mobile+App+Developer+%7C+React+Native;Backend+Developer+%7C+Node.js;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
+Mobile engineer with 1+ year shipping production React Native (Expo) apps on iOS and Android, focused on performance, release automation and AI-assisted development. Based in India.
 
-</div>
+## What I work with
 
-<div align="center">
-  
-🚀 **Passionate Full-Stack Engineer** building scalable web and mobile applications  
-🌍 **Based in** Thane, Maharashtra, India  
-💡 **Currently** developing modern React Native and Node.js applications
+- **Mobile:** React Native, Expo (Router, EAS Build/Submit/Update), TypeScript, TanStack Query, Zustand, Redux, NativeWind, Zod
+- **Backend:** Firebase (Auth, Firestore, Cloud Functions, FCM), Node.js, Express, REST, PostgreSQL, Python
+- **Web:** Next.js, React, Tailwind CSS, MDX, React Three Fiber
+- **Quality and release:** Jest, Vitest, Maestro, GitHub Actions, TestFlight, Play Console, Sentry, Mixpanel, OneSignal
+- **AI-assisted development:** Claude Code, on-device LLMs (Gemma, Qwen)
 
-</div>
+## Featured projects
 
----
+### [TrackaExpense](https://github.com/chhedadhruv/TrackaExpense)
 
-## 🎯 **Quick Overview**
+Solo-built personal finance app (126 registered users, published on Google Play) with group splits and settle-up, budgets, recurring transactions and receipt OCR.
 
-```javascript
-const dhruv = {
-  location: "Thane, Maharashtra, India",
-  currentFocus: ["Full-Stack Development", "Mobile App Development", "API Development"],
-  languages: ["JavaScript (ES6+)", "TypeScript", "Python", "C#", "HTML5", "CSS3"],
-  frontend: ["React", "React Native", "Redux", "Vite"],
-  backend: ["Node.js", "Express.js", "PostgreSQL", "Firebase"],
-  architecture: ["RESTful APIs", "Microservices", "Docker", "Cloudflare"],
-  currentlyWorking: "Building scalable full-stack applications",
-  funFact: "I love creating seamless user experiences across platforms!"
-};
-```
+- Offline-first data with TanStack Query, MMKV and live Firestore listeners
+- 20 Cloud Functions; Jest, Firestore-rules and Maestro end-to-end tests
 
----
+Tech: Expo SDK 58, React Native, TypeScript, Firebase. Live: [trackaexpense.dhruvchheda.com](https://trackaexpense.dhruvchheda.com)
 
-## 🛠️ **Tech Arsenal**
+<!-- TODO: add Google Play link and screenshot -->
 
-<div align="center">
+### [Learn Photography](https://learn.dhruvchheda.com)
 
-### **Frontend Mastery**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Interactive site for beginner photographers with a camera simulator built on a pure-TypeScript exposure engine.
 
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- 93 MDX lessons validated with Zod, client-side search, JSON-LD; about 277 Vitest tests
 
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+Tech: Next.js, TypeScript, Tailwind, MDX, React Three Fiber. Source: [learn-photography](https://github.com/chhedadhruv/learn-photography)
 
-</div>
+<!-- TODO: add screenshot -->
 
----
+### [create-projex](https://github.com/chhedadhruv/create-projex)
 
-## 🏆 **Featured Projects**
+CLI that scaffolds web projects from 7 templates with guided prompts, dry-run mode and deploy presets.
 
-<div align="center">
-  
-### 📋 **MyTodo** | *Complete Task Management Ecosystem*
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chhedadhruv/myTodo)
+- Every template is build-checked in CI; post-create hooks run as argv subprocesses, not through a shell
 
-*React • React Native • Node.js • PostgreSQL • Docker • TypeScript*
+Tech: TypeScript, Node.js. Site: [create-projex.com](https://www.create-projex.com/)
 
-🔹 **Full-stack ecosystem** with web, mobile, and API components  
-🔹 **JWT Authentication** with email verification and password reset  
-🔹 **Real-time sync** across all devices with offline support  
-🔹 **Docker deployment** with Nginx reverse proxy and SSL termination  
-🔹 **TypeScript** for type safety and better development experience
+<!-- TODO: add screenshot -->
 
----
+## Experience
 
-### 📚 **Quote API** | *Modern REST API for Inspirational Quotes*
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chhedadhruv/quote-api)
+**FOXO**, Software Development Engineer I (Mobile), Nov 2025 to present
 
-*Node.js • Express.js • Docker • Cloudflare Tunnel*
+- Own large parts of a production React Native (Expo) app; made flows config-driven from a backend table so content ships without an app release
+- Migrated API calls from RTK Query to TanStack Query; moved to expo-video with preloading, removing a 2-3 s initial buffer
+- Automated releases with EAS Build/Submit to TestFlight and Play internal track, plus background EAS Update (OTA) handling
+- Reworked Mixpanel and Sentry; added EAS Insights/Observe for launch time and time-to-interactive
+- Built in-app messaging, actionable notifications, a native Samsung SDK health integration (Android) and an Excel viewer
+- Prototyped on-device AI chat with local LLMs (Gemma, Qwen), model chosen by device RAM and storage
 
-🔹 **RESTful API** with advanced search and filtering capabilities  
-🔹 **Rate limiting** and security headers for production readiness  
-🔹 **Docker deployment** with Cloudflare tunnel for public access  
-🔹 **Comprehensive documentation** with health monitoring  
-🔹 **Environment-based configuration** for flexible deployment
+**REDX-AI Club, KJSIT**, Mobile App Developer Intern (Surakshak), Jul 2023 to Aug 2023
 
----
+- Co-built a safety platform with a team of 7+: Expo app, Next.js admin, Cloud Functions backend; localized in English, Hindi and Marathi
+- Built a GitHub Actions + EAS release pipeline that picks an OTA update or native build per push
 
-### 💰 **TrackaExpense** | *Personal Finance Management App*
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chhedadhruv/TrackaExpense)
+**Rapturous Technology**, React Native Developer Intern, Feb 2024 to May 2024
 
-*React Native • Firebase • React Navigation • Chart Kit*
+- Built and deployed Android and iOS apps with React Native, Redux and REST APIs
 
-🔹 **Cross-platform mobile app** for expense and income tracking  
-🔹 **Interactive charts** for financial analysis and insights  
-🔹 **Bill splitting functionality** with percentage-based calculations  
-🔹 **Savings goals tracking** with progress visualization  
-🔹 **Firebase integration** for real-time data synchronization
+<!--
+## Open source
+Add only once PRs are confirmed merged: contributions to strapi/strapi, with PR links.
+-->
 
-</div>
+## Writing
 
----
+- [Medium](https://medium.com/@dhruvchheda): tech articles, including one on building the Learn Photography camera simulator
 
-## 💼 **Professional Journey**
+## Links
 
-<details>
-<summary><b>🚀 React Native Developer - Rapturous Technology Pvt. Ltd.</b> <i>(Feb 2024 - May 2024)</i></summary>
-
-- 📱 **Developed and deployed** cross-platform mobile applications for Android and iOS using React Native
-- 🔧 **Integrated RESTful APIs** and managed complex application state using Redux for smooth user experience
-- 🤝 **Collaborated with design and backend teams** to implement scalable, maintainable UI components
-
-</details>
-
-<details>
-<summary><b>📱 Mobile App Developer Intern - REDX-AI Club (KJSIT)</b> <i>(Jul 2023 - Aug 2023)</i></summary>
-
-- 🌐 **Built a multilingual (3-language)** Android and iOS application using React Native, leveraging i18n for localization
-- 🔐 **Integrated Firebase Authentication** (email, password, phone) and Firestore for real-time database functionality
-- 🎯 **Applied design principles** and testing best practices to ensure high reliability and usability
-
-</details>
-
-<details>
-<summary><b>🌐 Web Developer - Software Development Cell, KJSIT</b> <i>(Mar 2022 - May 2022)</i></summary>
-
-- 🏗️ **Designed and developed** a full-stack web application using ASP.NET for managing university examination workflows
-- 🗄️ **Integrated MS SQL Server** for secure, structured database operations including student records and exam data
-- 📊 **Gained experience** in RESTful services and SQL database querying
-
-</details>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chhedadhruv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhedadhruv&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=chhedadhruv&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
-
-</div>
-
----
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chhedadhruv&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🌐 **Let's Connect & Build Together!**
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dhruvchheda.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-chheda/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@dhruvchheda.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chhedadhruv)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💭 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
-
-**Thanks for visiting! Let's create something amazing together! 🚀**
-
-![Profile Views](https://komarev.com/ghpvc/?username=chhedadhruv&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
+- Portfolio: [dhruvchheda.com](https://www.dhruvchheda.com)
+- LinkedIn: [dhruv-chheda](https://www.linkedin.com/in/dhruv-chheda/)
+- Email: me@dhruvchheda.com
